@@ -6,3 +6,25 @@
 .controller.edit {
     background: url(https://imgur.com/a/rhfCxro);
 }
+
+
+.edit .face .ds4 {
+    background: url(https://github.com/D-Flow/gamepad2/blob/9cf49d265ea1bd72ab74de2a2743903242136a2d/dpad.png);
+}
+
+
+.edit .face {
+    position: absolute;
+    background: url(https://github.com/D-Flow/gamepad2/blob/9cf49d265ea1bd72ab74de2a2743903242136a2d/dpad.png);
+}
+
+
+.edit .stick .ds4 {
+    background: url(https://github.com/D-Flow/gamepad2/blob/9cf49d265ea1bd72ab74de2a2743903242136a2d/sticks.png);
+}
+
+
+.edit .stick {
+    position: absolute;
+    background: url(https://github.com/D-Flow/gamepad2/blob/9cf49d265ea1bd72ab74de2a2743903242136a2d/sticks.png);
+}
