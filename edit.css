@@ -1,3 +1,7 @@
 .edit .controller.ds4 {
     background: url(base.png);
 }
+
+.ds4.disconnected{
+    background: url(disconnected.png)
+}
